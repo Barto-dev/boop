@@ -1,5 +1,4 @@
 import './App.css';
-import Boop from './Boop/Boop';
 import {useBoop} from './hooks/use-boop';
 import {animated} from 'react-spring';
 
